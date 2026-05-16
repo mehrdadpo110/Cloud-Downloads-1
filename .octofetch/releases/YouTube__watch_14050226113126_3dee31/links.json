@@ -1,0 +1,35 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9082",
+  "folder": "YouTube__watch_14050226113126_3dee31",
+  "base_name": "FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4",
+  "is_split": true,
+  "part_count": 3,
+  "release_url": "https://github.com/mehrdadpo110/Cloud-Downloads-1/releases/tag/co-releases-v1-9082",
+  "files": [
+    {
+      "name": "FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4.part00",
+      "url": "https://github.com/mehrdadpo110/Cloud-Downloads-1/releases/download/co-releases-v1-9082/FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4.part00",
+      "api_url": "https://api.github.com/repos/mehrdadpo110/Cloud-Downloads-1/releases/assets/421786114",
+      "id": 421786114,
+      "size": 1629661186,
+      "download_count": 0
+    },
+    {
+      "name": "FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4.part01",
+      "url": "https://github.com/mehrdadpo110/Cloud-Downloads-1/releases/download/co-releases-v1-9082/FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4.part01",
+      "api_url": "https://api.github.com/repos/mehrdadpo110/Cloud-Downloads-1/releases/assets/421786592",
+      "id": 421786592,
+      "size": 1629661186,
+      "download_count": 0
+    },
+    {
+      "name": "FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4.part02",
+      "url": "https://github.com/mehrdadpo110/Cloud-Downloads-1/releases/download/co-releases-v1-9082/FURIA_vs_Falcons_-_PGL_Astana_2026_-_Quarter-final_SvjD8y85Qtk_720p.mp4.part02",
+      "api_url": "https://api.github.com/repos/mehrdadpo110/Cloud-Downloads-1/releases/assets/421787243",
+      "id": 421787243,
+      "size": 1629661186,
+      "download_count": 0
+    }
+  ]
+}
